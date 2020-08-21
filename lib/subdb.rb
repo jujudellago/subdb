@@ -21,5 +21,6 @@
 
 require 'subdb/version'
 require 'subdb/video'
+require 'subdb/finder'
 require 'subdb/client_utils'
 require 'subdb/upload_cache'
